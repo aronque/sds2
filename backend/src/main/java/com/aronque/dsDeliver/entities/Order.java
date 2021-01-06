@@ -56,11 +56,11 @@ public class Order implements Serializable{
 		this.id = id;
 	}
 
-	public String getAdress() {
+	public String getAddress() {
 		return address;
 	}
 
-	public void setAdress(String adress) {
+	public void setAddress(String adress) {
 		this.address = adress;
 	}
 
